@@ -17,3 +17,5 @@ add_to_graph.py:
 Writes the records in OllieOutput.txt to the neo4j data base. 
 **I don't have neo4j configured on my system, so the file is untested. Run it on your system to check. **
 
+run as : python add_to_graph.py OllieOutput.txt
+
