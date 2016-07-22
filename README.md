@@ -1,3 +1,7 @@
+**Depreciated/Old**
+
+[New Repository](https://github.com/amankaushik/Concept-Map-Generation-from-Natural-Language-Text---Part-1)
+
 major_project
 =============
 
